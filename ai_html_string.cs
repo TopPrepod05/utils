@@ -6,6 +6,9 @@ string r = $@"
 </head>
 <body>
     <style>
+        html {{
+            overflow-y: scroll;
+        }}
         body {{
             margin: 0;
             padding: 16px;
